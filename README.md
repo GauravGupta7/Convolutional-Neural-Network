@@ -5,7 +5,7 @@ CNN based model used to make predictions on the CIFAR dataset
 
 The type of Model used here is a CNN (Convolutional Neural Network). It is a special type of neural network used to detect patterns in data. 
 
-###Tools used:  
+######Tools used:  
      1. Numpy   
      2. Pandas  
      3. Matplotlib  
